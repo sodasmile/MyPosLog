@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MiniProPos</string>
+    <string name="start_button">Start</string>
+    <string name="stop_button">Stop</string>
+    <string name="label_latitude">Latitude:</string>
+    <string name="label_longitude">Longitude:</string>
+    <string name="value_latitude_default">Waiting for latitude...</string>
+    <string name="value_longitude_default">Waiting for longitude...</string>
+    <string name="label_gps">GPS</string>
+    <string name="location_format">%.7f</string>
+    <string name="age_format">%.3f</string>
+    <string name="label_altitude">Altitude:</string>
+    <string name="label_age">Position age:</string>
+    <string name="value_altitude_default">Waiting for altitude...</string>
+    <string name="value_age_default">Waiting for age...</string>
+    <string name="track_category_5">Hard</string>
+    <string name="track_category_4">Technical</string>
+    <string name="track_category_3">Easy</string>
+    <string name="track_category_2">Gravel</string>
+    <string name="track_category_1">Paved</string>
+    <string name="value_chosen_default">...</string>
+    <string name="track_chosen">Chosen</string>
+</resources>
